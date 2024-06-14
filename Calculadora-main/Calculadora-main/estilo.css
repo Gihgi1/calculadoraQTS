@@ -1,0 +1,28 @@
+h1 {
+    color: #FF5733; 
+  }
+  
+  h2 {
+    color: #33FF57; 
+  }
+  
+
+  p {
+    color: #3366FF; 
+  }
+  
+  button {
+    background-color: #FF33FF; 
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  input {
+    border: 1px solid #CCCCCC;
+    padding: 5px;
+    border-radius: 5px;
+    width: 150px;
+  }
